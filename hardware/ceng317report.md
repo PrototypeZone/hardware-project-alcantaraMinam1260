@@ -143,5 +143,17 @@ You should get results like below (depending on the moisture):
 1023 is the Lowest Moisture Level
 
 1 is the Highest Moisture Level
+
 ## 4.0 References   
+
+Sparkfun - https://www.sparkfun.com/products/17731
+
+Sparkfun Github - https://github.com/sparkfun/Zio-Qwiic-Soil-Moisture-Sensor/tree/master
+
+Prototype Zone for some instructions - https://github.com/PrototypeZone/ceng317/tree/main/hardware/lasercutting
+
+
+
+
+
 
