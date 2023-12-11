@@ -27,11 +27,15 @@ SparkFun Qwiic Soil Moisture Sensor - https://www.sparkfun.com/products/17731
 Bill of Materials for the other Project Items: 
 https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/bom.md
 
-  
-
 ### 2.2 PCB design and soldering   
 
-*Replace this text.*   
+Use KiCad
+Launch KiCad and Start with default Settings
+Download the below files:
+Project File
+Schematic File
+PCB File
+  
 
 ### 2.3 Case design and assembly   
 
