@@ -120,7 +120,26 @@ This code should install the sparkfun libraries which will also contain the necc
 
 ## 3.0 Testing and Results   
 
-*Replace this text.*   
+Load Putty and sign in to the Pi. While the sensor is connected. 
 
+Use i2cdetect -y 1 to scan for the Sensors I2C. if 28 pops up. The sensor is working properly, and cthere are no problems with the board. If not troubleshoot. Check PCB connections and check header GPIO,
+
+![I2C](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/i2cdetect.png)
+
+Upload my python code that I modified from the official sparkfun discord.
+
+Make sure the code can be read and ran with chmod (And ends with .py).
+
+Run the code with:
+
+pyton "filename"
+
+You should get results like below (depending on the moisture): 
+
+![RESULT](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/result.png)
+
+1023 is the Lowest Moisture Level
+
+1 is the Highest Moisture Level
 ## 4.0 References   
 
