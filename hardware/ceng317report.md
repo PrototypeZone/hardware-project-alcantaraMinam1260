@@ -79,9 +79,15 @@ __Case Design__
 
 5) Insert the M2.5 screw in to the 4 PI holes put the printed matching donut holes on top.
 
+![screw](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/screw.JPG)
+
 6) Insert the 16mm Standoff above
 
 7) Place the PCB with the connected stacking header on top of the GPIO and 16mm Standoff respectively
+
+8) Should look like below:
+
+![standoff-header](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/standoff-header.JPG)
 
 
 
