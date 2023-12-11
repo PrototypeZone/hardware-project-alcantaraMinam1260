@@ -17,9 +17,9 @@ This is a build instruction for a Pi Soil Moisture Sensor project. It uses Spark
 
 __Specifications__
 
---*I2C address: (0x28)
+--* I2C address: (0x28)
 
---*Dimensions: 20.3x 100.0mm
+--* Dimensions: 20.3x 100.0mm
 
 ## 2.0 Added functionality   
 
