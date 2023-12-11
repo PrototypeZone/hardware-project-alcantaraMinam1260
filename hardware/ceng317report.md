@@ -61,7 +61,7 @@ __PCB Creation__
 
 __PCB Soldering__
 
-Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). It follows the same layout as the KiCad PCB above.
+Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). And solder the needed copper lines to the matching stacking header. It follows the same layout as the KiCad PCB above.
 
 ![soldering](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
 
@@ -74,6 +74,18 @@ __Case Design__
 2) Save as PDF
 
 3) Print and Laser Cut the board
+
+4) Unscrew the Rasberry Pi Shell if you have the shell on
+
+5) Insert the M2.5 screw in to the 4 PI holes put the printed matching donut holes on top.
+
+6) Insert the 16mm Standoff above
+
+7) Place the PCB with the connected stacking header on top of the GPIO and 16mm Standoff respectively
+
+
+
+
    
 
 ### 2.4 Firmware development and use   
