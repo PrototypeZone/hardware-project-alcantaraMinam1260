@@ -15,6 +15,11 @@ Your target audience is a Computer Engineering Technology student from a differe
 
 This is a build instruction for a Pi Soil Moisture Sensor project. It uses Sparkfun’s SEN-17731 Qwiic Soil Moisture Sensor. Connected to a Raspberry Pi. This project will let the user measure the moisture levels for their potted plant/garden.  
 
+__Specifications__
+
+..*I2C address: (0x28)
+..*Dimensions: 20.3x 100.0mm
+
 ## 2.0 Added functionality   
 
 *Replace this text.*   
