@@ -47,9 +47,15 @@ PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/
 
 6) Save Project As with your name and date
 
-7) Save it to a zip file
+7) Use File->fabrication outputs->Gerbers (.gbr) and Plot the Gerbers
 
-8) Print
+8) "Generate Drill Files"->PTH and NPTH in a single file
+
+9) Save Project As with your name and date
+
+10) Save it to a zip file
+
+11) Print
 
   
 
