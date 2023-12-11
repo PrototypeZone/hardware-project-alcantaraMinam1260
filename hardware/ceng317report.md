@@ -60,6 +60,7 @@ PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/
 PCB Soldering
 
 Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). It follows the same layout as the KiCad PCB above.
+
 ![soldering](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
 
 ### 2.3 Case design and assembly   
