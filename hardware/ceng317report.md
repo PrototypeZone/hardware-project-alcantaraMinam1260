@@ -67,7 +67,14 @@ Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor 
 
 ### 2.3 Case design and assembly   
 
-*Replace this text.*   
+__Case Design__
+
+1)Download the cdr file
+
+2)Save as PDF
+
+3)Print and Laser Cut the board
+   
 
 ### 2.4 Firmware development and use   
 
