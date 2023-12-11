@@ -11,7 +11,7 @@ Your target audience is a Computer Engineering Technology student from a differe
 [3.0 Testing and Results](#30-testing-and-results)   
 [4.0 References](#40-references)  
 
-## 1.0 Introduce the Broadcom development platform and exisiting functionality   
+## 1.0 Sparkfun Qwiic Soil Moisture Sensor PI CENG-317 Project   
 
 *Replace this text.*   
 
