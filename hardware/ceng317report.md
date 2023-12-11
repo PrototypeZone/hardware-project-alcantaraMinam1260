@@ -13,7 +13,7 @@ Your target audience is a Computer Engineering Technology student from a differe
 
 ## 1.0 Sparkfun Qwiic Soil Moisture Sensor PI CENG-317 Project   
 
-This is a build instruction for a Pi Soil Moisture Sensor project. It uses Sparkfun’s SEN-17731 Qwiic Soil Moisture Sensor. Connected to a Raspberry Pi. This project will let the user measure the moisture levels for their potted plant/garden.  
+My name is Mi Nam Alcantara. This is a build instruction for my Pi Soil Moisture Sensor project. It uses Sparkfun’s SEN-17731 Qwiic Soil Moisture Sensor. Connected to a Raspberry Pi. This project will let the user measure the moisture levels for their potted plant/garden.  
 
 __Specifications__
 
