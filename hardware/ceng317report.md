@@ -29,6 +29,8 @@ https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/h
 
 ### 2.2 PCB design and soldering   
 
+**PCB Creation**
+
 1) Use KiCad
 
 2) Launch KiCad and Start with default Settings
@@ -57,7 +59,7 @@ PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/
 
 11) Print
 
-PCB Soldering
+**PCB Soldering**
 
 Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). It follows the same layout as the KiCad PCB above.
 
