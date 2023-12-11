@@ -61,13 +61,13 @@ __PCB Creation__
 
 __PCB Soldering__
 
-Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). And solder the needed copper lines to the matching stacking header. It follows the same layout as the KiCad PCB above.
+Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). And solder the needed copper lines to the matching stacking header. __Perform a continuity test after soldering__ It follows the same layout as the KiCad PCB above.
 
 ![soldering](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
 
 ### 2.3 Case design and assembly   
 
-__Case Design__
+__Case Design & Assembly__
 
 1) Download the cdr file
 
@@ -88,6 +88,7 @@ __Case Design__
 8) Should look like below:
 
 ![standoff-header](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/standoff-header.JPG)
+
 
 
 
