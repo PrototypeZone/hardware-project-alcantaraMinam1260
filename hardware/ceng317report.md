@@ -92,7 +92,8 @@ __Case Design & Assembly__
 9) Plug the sensor the the Qwiic cables and plug it to the PCB Qwiic Outlet.
 
 10) Finished Product should look like:
-    
+
+![Finished](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/Finished.png)
 
 
 ### 2.4 Firmware development and use   
