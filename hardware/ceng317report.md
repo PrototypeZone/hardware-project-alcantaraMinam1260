@@ -57,7 +57,7 @@ PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/
 
 11) Print
 
-![alt text] (https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
+![soldering] (https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
 
 ### 2.3 Case design and assembly   
 
