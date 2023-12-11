@@ -61,7 +61,7 @@ __PCB Creation__
 
 __PCB Soldering__
 
-Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). And solder the needed copper lines to the matching stacking header. __Perform a continuity test after soldering__ It follows the same layout as the KiCad PCB above.
+Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). And solder the needed copper lines to the matching stacking header. __Perform a continuity test after soldering__.It follows the same layout as the KiCad PCB above.
 
 ![soldering](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/soldered_pcb.jpg) 
 
@@ -89,11 +89,11 @@ __Case Design & Assembly__
 
 ![standoff-header](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/media/standoff-header.JPG)
 
+9) Plug the sensor the the Qwiic cables and plug it to the PCB Qwiic Outlet.
 
+10) Finished Product should look like:
+    
 
-
-
-   
 
 ### 2.4 Firmware development and use   
 
