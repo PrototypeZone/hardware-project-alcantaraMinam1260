@@ -107,7 +107,16 @@ __Case Design & Assembly__
 __Firmware__
 
 From the official spawrkfun github account
+
 [Firmware](https://github.com/sparkfun/Zio-Qwiic-Soil-Moisture-Sensor/tree/master/Firmware/Qwiic_Soil_Moisture_Sensor_Gateway_Firmware/Qwiic_Soil_Moisture_Firmware)
+
+Updating firmware with the code above is not neccessary.
+
+You can just connect the sensor to the Pi. And on putty type the following code:
+
+pip install sparkfun-qwiic
+
+This code should install the sparkfun libraries which will also contain the neccessary Qwiic Soil Moisture Sensor Libraries
 
 ## 3.0 Testing and Results   
 
