@@ -108,7 +108,7 @@ __Case Design & Assembly__
 
 __Firmware__
 
-From the official spawrkfun github account
+From the official sparkfun github account
 
 [Firmware](https://github.com/sparkfun/Zio-Qwiic-Soil-Moisture-Sensor/tree/master/Firmware/Qwiic_Soil_Moisture_Sensor_Gateway_Firmware/Qwiic_Soil_Moisture_Firmware)
 
