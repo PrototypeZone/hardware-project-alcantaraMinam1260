@@ -21,7 +21,12 @@ This is a build instruction for a Pi Soil Moisture Sensor project. It uses Spark
 
 ### 2.1 Sensor/Effector purchase   
 
-*Replace this text.*   
+Sensor:
+SparkFun Qwiic Soil Moisture Sensor - https://www.sparkfun.com/products/17731
+
+Utilities: 
+https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/bom.md
+  
 
 ### 2.2 PCB design and soldering   
 
