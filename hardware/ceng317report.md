@@ -37,11 +37,11 @@ __PCB Creation__
 
 3) Download the below files:
 
-Project File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pro
+[Project File](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pro)
 
-Schematic File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_sch
+[Schematic File](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_sch)
 
-PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pcb
+[PCB File](https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pcb)
 
 4) Use KiCad to open the Project File
 
@@ -59,7 +59,7 @@ PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/
 
 11) Print
 
-PCB Soldering
+__PCB Soldering__
 
 Solder the PCB like below. Solder the resistors (220 ohm, 2.2k ohm), transistor (2N4124 PNP) and led (5mm LED). It follows the same layout as the KiCad PCB above.
 
