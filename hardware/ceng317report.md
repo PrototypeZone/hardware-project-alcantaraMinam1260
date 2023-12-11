@@ -30,11 +30,16 @@ https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/h
 ### 2.2 PCB design and soldering   
 
 Use KiCad
+
 Launch KiCad and Start with default Settings
+
 Download the below files:
-Project File
-Schematic File
-PCB File
+
+Project File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pro
+
+Schematic File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_sch
+
+PCB File - https://github.com/PrototypeZone/hardware-project-alcantaraMinam1260/blob/main/hardware/pcb/MiNamAlcantaraKiCad.kicad_pcb
   
 
 ### 2.3 Case design and assembly   
